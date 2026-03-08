@@ -1,1 +1,1 @@
-Worlds 360
+https://visgraf.github.io/worlds360/
