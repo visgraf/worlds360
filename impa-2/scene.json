@@ -1,0 +1,52 @@
+{
+  "splats": [
+    {
+      "filename": "whimsical-creative-office-space.spz",
+      "transform": {
+        "translation": [
+          0.438,
+          2.274,
+          8.783
+        ],
+        "rotation": [
+          180,
+          -29.897902247531917,
+          0
+        ],
+        "quaternion": [
+          0.966,
+          0,
+          -0.258,
+          0
+        ],
+        "scale": 1.01
+      }
+    },
+    {
+      "filename": "whimsical-creative-office-space-1.spz",
+      "transform": {
+        "translation": [
+          -4.565,
+          2.274,
+          -5.411
+        ],
+        "rotation": [
+          0,
+          28.852864389847,
+          -180
+        ],
+        "quaternion": [
+          0.249,
+          0,
+          0.969,
+          0
+        ],
+        "scale": 1.02
+      }
+    }
+  ],
+  "metadata": {
+    "exportTimestamp": "2026-03-22T23:10:28.463Z",
+    "spzExportVersion": 2
+  }
+}
